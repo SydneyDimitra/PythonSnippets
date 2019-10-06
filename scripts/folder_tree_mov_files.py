@@ -3,10 +3,6 @@ import argparse
 import glob
 import os
 
-# globals
-#source_dir = "/hosts/nfs28/user_data/MAGIC/IO/london/outgoing/2019_07/2019_07_29/client/190729_DNEG_LON_001"
-
-
 def get_files(folder):
     """[summary]
 
